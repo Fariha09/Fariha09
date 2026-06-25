@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fariha Moazzema</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **Nouveau Ink**
+- 🔭 I’m currently working on **Bloom and The Thinking Room**
 
 - 🌱 I’m currently learning **React.js, TailwindCSS, JavaScript**
 
-- 📫 How to reach me **fariharaisa0909@gmail.com**
+- 📫 How to reach me **farihamr09@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
